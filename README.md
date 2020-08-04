@@ -21,3 +21,4 @@
 
 ### Conclusion
 
+After tuning the model's parameters with GridSearch it was determined that a 'C' value of 1 with a gamme of 0.0001 resulted in the highest score of approximately 0.74. This is notably high considering the unreliability of data from space and the possibility of inaccurate results. Nevertheless, this model is more accurate than expected and comparing it to modified versions of the model using different classifiers would provide more insight. Attempting a model using multiple input parameters may also prove to create a more accurate model. 
