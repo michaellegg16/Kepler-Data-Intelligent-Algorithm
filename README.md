@@ -1,4 +1,4 @@
-# **Kepler-data-intelligent-algorithm**
+# **Kepler-Data-Intelligent-Algorithm**
 
 ### Task
 
