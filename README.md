@@ -22,3 +22,13 @@
 ### Conclusion
 
 After tuning the model's parameters with GridSearch it was determined that a 'C' value of 1 with a gamma of 0.0001 resulted in the highest score of approximately 0.74. This is notably high considering the unreliability of data from space and the possibility of inaccurate results. Nevertheless, this model is more accurate than expected and it consistently classifies new data accurately as an exoplanet at a score just below 0.74. Comparing it to modified versions of the model using different classifiers would provide more insight. Attempting a model using multiple input parameters may also create a more accurate model. 
+
+#### Screenshots of Results
+
+![Data_Head](https://github.com/michaellegg16/machine-learning-challenge/blob/master/Screenshots/Data_Sample.PNG)
+
+![Test_train](https://github.com/michaellegg16/machine-learning-challenge/blob/master/Screenshots/Test_Train_Split.PNG)
+
+![Test_Train_Scores](https://github.com/michaellegg16/machine-learning-challenge/blob/master/Screenshots/Testing_Traing_Scores.PNG)
+
+![Best_Params_Score](https://github.com/michaellegg16/machine-learning-challenge/blob/master/Screenshots/Best_Parameters_and_Score.PNG)
